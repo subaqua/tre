@@ -1,4 +1,4 @@
-# Python, Twistd, Reactor, Examples
+# Python, Twisted, Reactor, Examples
 
 An exercise in python patterns
 
@@ -18,7 +18,7 @@ An exercise in python patterns
 
 ## Examples
 
-1. python scripts using python modules in project directory structure
+* python scripts using python modules in project directory structure
 
 This is a recurring pattern.  I want my binaries in a bin/ directory.
 When run, it starts python and this pattern shows how to ensure that
@@ -36,10 +36,8 @@ To run the script, just type:
 
 ```
 
-2. Singleton model for sharing data between modules
+* Basic usage of twisted
 
-
-
-
+* Poker deck for blackjack
 
 
